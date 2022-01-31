@@ -1,0 +1,85 @@
+.one{
+    display: flex;
+    width: 50%;
+    margin-right: 50%;
+}
+
+
+.java{
+    /* margin-bottom: 30%; */
+    color: white;
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+    background-color: darkcyan;
+
+}
+
+.jav{
+    color: rgb(248, 246, 246);
+    width: 500%;
+    
+    
+}
+
+/* .check{
+    background-color: cyan;
+    width: 50%;
+    margin-left: 100%;
+} */
+
+.text{
+    width: 300%;
+}
+
+.ent{
+    display: flex;
+
+}
+
+.deet{
+    width: 150px;
+
+
+}
+
+.deets{
+
+    width: 200px;
+    margin-left: 250px;
+   
+}
+
+.other{
+    margin-left: 80%; 
+    background-color:white;
+    /* background-size: 180%; */
+    padding-bottom: 50px;
+    padding-left: 20px;
+    width: 700px;
+    /* margin-bottom: 50%; */
+    margin-top: 50px;
+}
+.form{
+    width: 200%;
+    padding: 11%;
+}
+
+.reg{
+    color: #000;
+    padding-right: 20px;
+}
+
+.mail{
+    width: 400px;
+}
+
+.phone{
+    width: 400px;
+}
+
+.but{
+    background-color: blue;
+    width: 300px;
+    
+ } 
